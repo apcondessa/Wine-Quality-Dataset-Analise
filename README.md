@@ -227,6 +227,6 @@ Os três modelos são comparados em uma tabela consolidada de métricas. De form
 
 ---
 
-## 👤 Autor
+## 👤 Autor: Ana Paula Machado Condessa e Pedro Alves
 
 Desenvolvido como entrega do **Tech Challenge — Desafio 2** da Pós-Tech em Data Analytics da **FIAP**.
